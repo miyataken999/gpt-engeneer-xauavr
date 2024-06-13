@@ -1,0 +1,11 @@
+autoscriptest/
+requirements.txt
+autoscriptest/
+__init__.py
+line_converter.py
+google_chat_formatter.py
+main.py
+tests/
+test_line_converter.py
+test_google_chat_formatter.py
+test_main.py
